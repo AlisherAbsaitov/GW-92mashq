@@ -1,7 +1,7 @@
-import React from 'react'
+// import React from 'react'
 // Abdurahmon
 export default function Header() {
   return (
-    <div>Header</div>
+    <div style={{ backgroundColor: 'lightblue', padding: '10px' }}>Header2</div>
   )
 }
