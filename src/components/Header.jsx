@@ -2,6 +2,6 @@
 // Abdurahmon
 export default function Header() {
   return (
-    <div style={{ backgroundColor: 'lightblue', padding: '10px' }}>Header2</div>
+    <div style={{ backgroundColor: 'lightblue', padding: '10px' }}>Abduramon</div>
   )
 }
